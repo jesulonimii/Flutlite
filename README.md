@@ -1,6 +1,6 @@
-# first_learn
+# Flutlite
 
-A new Flutter project.
+Learning flutter
 
 ## Getting Started
 
